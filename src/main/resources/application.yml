@@ -1,9 +1,0 @@
-elasticsearch:
-    cluster-name: elasticsearch
-    host: '127.0.0.1'
-    port: 9200
-    pool: 5
-    spring
-#autoconfigure:
-#    #禁用Spring boot自身的自动配置类
-#    exclude: org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchAutoConfiguration
