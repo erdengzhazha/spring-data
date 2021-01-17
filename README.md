@@ -3,9 +3,9 @@
 ![太上老君](http://qiusunzuo.com/wp-content/uploads/2020/10/timg-e1601899871216.jpeg)  
 
 |---spring-data  
-&nbsp;&nbsp;&nbsp;&nbsp;|---spring-data-elasticsearch    
+&nbsp;&nbsp;&nbsp;&nbsp;|---spring-data-elasticsearch , V6.2.2 < Elasticsearch < V6.8.13  
    
-Elasticsearch V6.2.2 < x < V6.8.13
+
 # 个人博客
 ![MM](http://qiusunzuo.com/wp-content/uploads/2020/10/109_34836.jpg)  
 
