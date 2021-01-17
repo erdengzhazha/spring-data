@@ -24,7 +24,7 @@ import java.net.InetAddress;
  */
 
 @Configuration
-@EnableElasticsearchRepositories(basePackages = "com.ovopark.springdata")
+@EnableElasticsearchRepositories(basePackages = "com.ovopark.springdata.elasticsearch.mapping")
 @Slf4j
 public class ElasticConfig {
     /**
